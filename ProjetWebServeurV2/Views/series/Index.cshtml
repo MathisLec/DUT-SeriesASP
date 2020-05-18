@@ -1,0 +1,50 @@
+﻿@*@model IEnumerable<ProjetWebServeurV2.series>*@
+@model PagedList.IPagedList<ProjetWebServeurV2.series>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Liste des séries</h2>
+@Html.ActionLink("Ajouter une série", "Create")
+@using (Html.BeginForm("Index", "series", FormMethod.Get))
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString", ViewBag.CurrentFilter as string)
+        <input type="submit" value="Search" />
+    </p>
+}
+<table class="table">
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            <b>@Html.DisplayFor(modelItem => item.title)</b>
+            <br />
+            @Html.ActionLink("Details", "Details", new { id = item.id })
+        </td>
+        
+        <td>
+            @{
+                String imagePoster = Convert.ToBase64String(item.poster);
+            }
+            <img src="data:image/jpg;base64,@imagePoster" height="300" width="200" />
+        </td>
+
+        <td>
+            @{ 
+                foreach(var ili in item.rating)
+                {
+                    ili.value.ToString();
+                }
+            }
+        </td>
+
+    </tr>
+    }
+
+</table>
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index",
+    new { page, sortOrder = ViewBag.CurrentSort, currentFilter = ViewBag.CurrentFilter }))

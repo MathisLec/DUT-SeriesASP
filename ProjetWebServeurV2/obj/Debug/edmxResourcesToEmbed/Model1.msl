@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="td_coursModelStoreContainer" CdmEntityContainer="td_coursEntities">
+    <EntitySetMapping Name="actor">
+      <EntityTypeMapping TypeName="td_coursModel.actor">
+        <MappingFragment StoreEntitySet="actor">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="country">
+      <EntityTypeMapping TypeName="td_coursModel.country">
+        <MappingFragment StoreEntitySet="country">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="episode">
+      <EntityTypeMapping TypeName="td_coursModel.episode">
+        <MappingFragment StoreEntitySet="episode">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="season_id" ColumnName="season_id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="imdb" ColumnName="imdb" />
+          <ScalarProperty Name="imdbrating" ColumnName="imdbrating" />
+          <ScalarProperty Name="number" ColumnName="number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="external_rating">
+      <EntityTypeMapping TypeName="td_coursModel.external_rating">
+        <MappingFragment StoreEntitySet="external_rating">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="series_id" ColumnName="series_id" />
+          <ScalarProperty Name="source_id" ColumnName="source_id" />
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="votes" ColumnName="votes" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="external_rating_source">
+      <EntityTypeMapping TypeName="td_coursModel.external_rating_source">
+        <MappingFragment StoreEntitySet="external_rating_source">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="genre">
+      <EntityTypeMapping TypeName="td_coursModel.genre">
+        <MappingFragment StoreEntitySet="genre">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rating">
+      <EntityTypeMapping TypeName="td_coursModel.rating">
+        <MappingFragment StoreEntitySet="rating">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="series_id" ColumnName="series_id" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+          <ScalarProperty Name="value" ColumnName="value" />
+          <ScalarProperty Name="comment" ColumnName="comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="season">
+      <EntityTypeMapping TypeName="td_coursModel.season">
+        <MappingFragment StoreEntitySet="season">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="series_id" ColumnName="series_id" />
+          <ScalarProperty Name="number" ColumnName="number" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="series">
+      <EntityTypeMapping TypeName="td_coursModel.series">
+        <MappingFragment StoreEntitySet="series">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="title" ColumnName="title" />
+          <ScalarProperty Name="plot" ColumnName="plot" />
+          <ScalarProperty Name="imdb" ColumnName="imdb" />
+          <ScalarProperty Name="poster" ColumnName="poster" />
+          <ScalarProperty Name="director" ColumnName="director" />
+          <ScalarProperty Name="youtube_trailer" ColumnName="youtube_trailer" />
+          <ScalarProperty Name="awards" ColumnName="awards" />
+          <ScalarProperty Name="year_start" ColumnName="year_start" />
+          <ScalarProperty Name="year_end" ColumnName="year_end" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="user">
+      <EntityTypeMapping TypeName="td_coursModel.user">
+        <MappingFragment StoreEntitySet="user">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+          <ScalarProperty Name="register_date" ColumnName="register_date" />
+          <ScalarProperty Name="admin" ColumnName="admin" />
+          <ScalarProperty Name="country_id" ColumnName="country_id" />
+          <ScalarProperty Name="user_id" ColumnName="user_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="actor_series" TypeName="td_coursModel.actor_series" StoreEntitySet="actor_series">
+      <EndProperty Name="actor">
+        <ScalarProperty Name="id" ColumnName="actor_id" />
+      </EndProperty>
+      <EndProperty Name="series">
+        <ScalarProperty Name="id" ColumnName="series_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="country_series" TypeName="td_coursModel.country_series" StoreEntitySet="country_series">
+      <EndProperty Name="series">
+        <ScalarProperty Name="id" ColumnName="series_id" />
+      </EndProperty>
+      <EndProperty Name="country">
+        <ScalarProperty Name="id" ColumnName="country_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="genre_series" TypeName="td_coursModel.genre_series" StoreEntitySet="genre_series">
+      <EndProperty Name="genre">
+        <ScalarProperty Name="id" ColumnName="genre_id" />
+      </EndProperty>
+      <EndProperty Name="series">
+        <ScalarProperty Name="id" ColumnName="series_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="user_episode" TypeName="td_coursModel.user_episode" StoreEntitySet="user_episode">
+      <EndProperty Name="episode">
+        <ScalarProperty Name="id" ColumnName="episode_id" />
+      </EndProperty>
+      <EndProperty Name="user">
+        <ScalarProperty Name="id" ColumnName="user_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="user_series" TypeName="td_coursModel.user_series" StoreEntitySet="user_series">
+      <EndProperty Name="series">
+        <ScalarProperty Name="id" ColumnName="series_id" />
+      </EndProperty>
+      <EndProperty Name="user">
+        <ScalarProperty Name="id" ColumnName="user_id" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

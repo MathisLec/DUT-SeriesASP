@@ -1,0 +1,392 @@
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.dll.config
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.pdb
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe.config
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.rsp
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe.config
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.rsp
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.AppContext.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Console.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Compression.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Claims.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.ValueTuple.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe.config
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.rsp
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\BouncyCastle.Crypto.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Owin.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Ubiety.Dns.Core.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\WebGrease.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.pdb
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Razor.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CopyComplete
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.pdb
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csprojAssemblyReference.cache
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.dll
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.xml
+C:\Users\mathi\source\repos\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.dll.config
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.pdb
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe.config
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.rsp
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe.config
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.rsp
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CSharp.Core.targets
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Managed.Core.targets
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.AppContext.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Collections.Immutable.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Console.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Compression.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Reflection.Metadata.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.AccessControl.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Claims.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Principal.Windows.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.ValueTuple.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.ReaderWriter.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XmlDocument.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe.config
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.rsp
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe.config
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\BouncyCastle.Crypto.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Web.Infrastructure.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Owin.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Ubiety.Dns.Core.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\WebGrease.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.pdb
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Helpers.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Mvc.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Optimization.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Razor.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Deployment.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Razor.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.SqlServer.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CoreCompileInputs.cache
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CopyComplete
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.dll
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.pdb
+\\iut.bx1\Etudiants\Home\mlecoeuvre\Desktop\Nouveau dossier\projetprogserveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csprojAssemblyReference.cache
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\ProjetWebServeurV2.pdb
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.exe.config
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csc.rsp
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.exe.config
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\csi.rsp
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.AppContext.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Collections.Immutable.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Console.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Compression.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.IO.Pipes.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.AccessControl.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Claims.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.ValueTuple.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.exe.config
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\vbc.rsp
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\roslyn\VBCSCompiler.exe.config
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\BouncyCastle.Crypto.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Web.Infrastructure.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Owin.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Ubiety.Dns.Core.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\WebGrease.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Google.Protobuf.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\MySql.Data.EntityFramework.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\PagedList.Mvc.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Renci.SshNet.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Helpers.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Mvc.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Optimization.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.Razor.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Deployment.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\System.Web.WebPages.Razor.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Newtonsoft.Json.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Antlr3.Runtime.pdb
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\EntityFramework.SqlServer.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Google.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Helpers.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Mvc.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Optimization.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.Razor.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\EntityFramework.SqlServer.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csprojAssemblyReference.cache
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CoreCompileInputs.cache
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.csproj.CopyComplete
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.dll
+D:\Dev\S3\Prog Serveur\ProjetWebServeurV2\ProjetWebServeurV2\obj\Debug\ProjetWebServeurV2.pdb

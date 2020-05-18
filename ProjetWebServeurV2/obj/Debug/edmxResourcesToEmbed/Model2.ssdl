@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="info_mlecoeuvreModel.Store" Provider="MySql.Data.MySqlClient" ProviderManifestToken="5.5" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="actor">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="actor_series">
+    <Key>
+      <PropertyRef Name="actor_id" />
+      <PropertyRef Name="series_id" />
+    </Key>
+    <Property Name="actor_id" Type="int" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="country">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="country_series">
+    <Key>
+      <PropertyRef Name="country_id" />
+      <PropertyRef Name="series_id" />
+    </Key>
+    <Property Name="country_id" Type="int" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="episode">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="season_id" Type="int" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="date" Type="date" />
+    <Property Name="imdb" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="imdbrating" Type="double" />
+    <Property Name="number" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="external_rating">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+    <Property Name="source_id" Type="int" Nullable="false" />
+    <Property Name="value" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="votes" Type="int" />
+  </EntityType>
+  <EntityType Name="external_rating_source">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="genre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="255" Nullable="false" />
+  </EntityType>
+  <EntityType Name="genre_series">
+    <Key>
+      <PropertyRef Name="genre_id" />
+      <PropertyRef Name="series_id" />
+    </Key>
+    <Property Name="genre_id" Type="int" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="rating">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="value" Type="int" Nullable="false" />
+    <Property Name="comment" Type="longtext" />
+  </EntityType>
+  <EntityType Name="season">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+    <Property Name="number" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="series">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="title" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="plot" Type="longtext" />
+    <Property Name="imdb" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="poster" Type="longblob" />
+    <Property Name="director" Type="varchar" MaxLength="255" />
+    <Property Name="youtube_trailer" Type="varchar" MaxLength="255" />
+    <Property Name="awards" Type="longtext" />
+    <Property Name="year_start" Type="int" />
+    <Property Name="year_end" Type="int" />
+  </EntityType>
+  <EntityType Name="user">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="email" Type="varchar" MaxLength="128" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="register_date" Type="datetime" Precision="0" />
+    <Property Name="admin" Type="bool" Nullable="false" />
+    <Property Name="country_id" Type="int" />
+    <Property Name="user_id" Type="varchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="user_episode">
+    <Key>
+      <PropertyRef Name="user_id" />
+      <PropertyRef Name="episode_id" />
+    </Key>
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="episode_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="user_series">
+    <Key>
+      <PropertyRef Name="user_id" />
+      <PropertyRef Name="series_id" />
+    </Key>
+    <Property Name="user_id" Type="int" Nullable="false" />
+    <Property Name="series_id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_5F421A105278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="user_series" Type="Self.user_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="user_series">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_5F421A10A76ED395">
+    <End Role="user" Type="Self.user" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="user_series" Type="Self.user_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="user_series">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_7A68EA5E5278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="country_series" Type="Self.country_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="country_series">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_7A68EA5EF92F3E70">
+    <End Role="country" Type="Self.country" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="country_series" Type="Self.country_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="country">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="country_series">
+        <PropertyRef Name="country_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_85A702D0362B62A0">
+    <End Role="episode" Type="Self.episode" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="user_episode" Type="Self.user_episode" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="episode">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="user_episode">
+        <PropertyRef Name="episode_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_85A702D0A76ED395">
+    <End Role="user" Type="Self.user" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="user_episode" Type="Self.user_episode" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="user_episode">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_8D93D649F92F3E70">
+    <End Role="country" Type="Self.country" Multiplicity="0..1" />
+    <End Role="user" Type="Self.user" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="country">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="user">
+        <PropertyRef Name="country_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AC0AB9CB5278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1" />
+    <End Role="external_rating" Type="Self.external_rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="external_rating">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_AC0AB9CB953C1C61">
+    <End Role="external_rating_source" Type="Self.external_rating_source" Multiplicity="1" />
+    <End Role="external_rating" Type="Self.external_rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="external_rating_source">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="external_rating">
+        <PropertyRef Name="source_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CD56D29B10DAF24A">
+    <End Role="actor" Type="Self.actor" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="actor_series" Type="Self.actor_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="actor">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="actor_series">
+        <PropertyRef Name="actor_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CD56D29B5278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="actor_series" Type="Self.actor_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="actor_series">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_D1A3310D4296D31F">
+    <End Role="genre" Type="Self.genre" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="genre_series" Type="Self.genre_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="genre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="genre_series">
+        <PropertyRef Name="genre_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_D1A3310D5278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="genre_series" Type="Self.genre_series" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="genre_series">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_D88926225278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1" />
+    <End Role="rating" Type="Self.rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="rating">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_D8892622A76ED395">
+    <End Role="user" Type="Self.user" Multiplicity="1" />
+    <End Role="rating" Type="Self.rating" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="user">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="rating">
+        <PropertyRef Name="user_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DDAA1CDA4EC001D1">
+    <End Role="season" Type="Self.season" Multiplicity="1" />
+    <End Role="episode" Type="Self.episode" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="season">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="episode">
+        <PropertyRef Name="season_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_F0E45BA95278319C">
+    <End Role="series" Type="Self.series" Multiplicity="1" />
+    <End Role="season" Type="Self.season" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="series">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="season">
+        <PropertyRef Name="series_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="info_mlecoeuvreModelStoreContainer">
+    <EntitySet Name="actor" EntityType="Self.actor" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="actor_series" EntityType="Self.actor_series" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="country" EntityType="Self.country" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="country_series" EntityType="Self.country_series" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="episode" EntityType="Self.episode" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="external_rating" EntityType="Self.external_rating" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="external_rating_source" EntityType="Self.external_rating_source" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="genre" EntityType="Self.genre" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="genre_series" EntityType="Self.genre_series" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="rating" EntityType="Self.rating" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="season" EntityType="Self.season" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="series" EntityType="Self.series" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="user" EntityType="Self.user" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="user_episode" EntityType="Self.user_episode" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <EntitySet Name="user_series" EntityType="Self.user_series" Schema="info_mlecoeuvre" store:Type="Tables" />
+    <AssociationSet Name="FK_5F421A105278319C" Association="Self.FK_5F421A105278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="user_series" EntitySet="user_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_5F421A10A76ED395" Association="Self.FK_5F421A10A76ED395">
+      <End Role="user" EntitySet="user" />
+      <End Role="user_series" EntitySet="user_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_7A68EA5E5278319C" Association="Self.FK_7A68EA5E5278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="country_series" EntitySet="country_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_7A68EA5EF92F3E70" Association="Self.FK_7A68EA5EF92F3E70">
+      <End Role="country" EntitySet="country" />
+      <End Role="country_series" EntitySet="country_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_85A702D0362B62A0" Association="Self.FK_85A702D0362B62A0">
+      <End Role="episode" EntitySet="episode" />
+      <End Role="user_episode" EntitySet="user_episode" />
+    </AssociationSet>
+    <AssociationSet Name="FK_85A702D0A76ED395" Association="Self.FK_85A702D0A76ED395">
+      <End Role="user" EntitySet="user" />
+      <End Role="user_episode" EntitySet="user_episode" />
+    </AssociationSet>
+    <AssociationSet Name="FK_8D93D649F92F3E70" Association="Self.FK_8D93D649F92F3E70">
+      <End Role="country" EntitySet="country" />
+      <End Role="user" EntitySet="user" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AC0AB9CB5278319C" Association="Self.FK_AC0AB9CB5278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="external_rating" EntitySet="external_rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_AC0AB9CB953C1C61" Association="Self.FK_AC0AB9CB953C1C61">
+      <End Role="external_rating_source" EntitySet="external_rating_source" />
+      <End Role="external_rating" EntitySet="external_rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CD56D29B10DAF24A" Association="Self.FK_CD56D29B10DAF24A">
+      <End Role="actor" EntitySet="actor" />
+      <End Role="actor_series" EntitySet="actor_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CD56D29B5278319C" Association="Self.FK_CD56D29B5278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="actor_series" EntitySet="actor_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_D1A3310D4296D31F" Association="Self.FK_D1A3310D4296D31F">
+      <End Role="genre" EntitySet="genre" />
+      <End Role="genre_series" EntitySet="genre_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_D1A3310D5278319C" Association="Self.FK_D1A3310D5278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="genre_series" EntitySet="genre_series" />
+    </AssociationSet>
+    <AssociationSet Name="FK_D88926225278319C" Association="Self.FK_D88926225278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="rating" EntitySet="rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_D8892622A76ED395" Association="Self.FK_D8892622A76ED395">
+      <End Role="user" EntitySet="user" />
+      <End Role="rating" EntitySet="rating" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DDAA1CDA4EC001D1" Association="Self.FK_DDAA1CDA4EC001D1">
+      <End Role="season" EntitySet="season" />
+      <End Role="episode" EntitySet="episode" />
+    </AssociationSet>
+    <AssociationSet Name="FK_F0E45BA95278319C" Association="Self.FK_F0E45BA95278319C">
+      <End Role="series" EntitySet="series" />
+      <End Role="season" EntitySet="season" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

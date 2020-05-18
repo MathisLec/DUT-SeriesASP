@@ -1,0 +1,114 @@
+﻿@model ProjetWebServeurV2.series
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dd>
+            <b> @Html.DisplayFor(model => model.title)</b>
+        </dd>
+        <dd>
+            @{
+                String imagePoster = Convert.ToBase64String(Model.poster);
+            }
+            <img src="data:image/jpg;base64,@imagePoster" height="300" width="200" />
+        </dd>
+        <dd>
+            Page <a href="https://www.imdb.com/title/@Model.imdb">IMDB</a>
+        </dd>
+        <dt>
+            Synopsis
+            <br />
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.plot)
+        </dd>
+
+        <dt>
+            Réalisateur
+        </dt>
+
+        <dd>
+            @{ if (Model.director.IsEmpty())
+                {
+                    <p>[NON RENSEIGNÉ]</p>
+                }
+                else
+                {
+                    Html.DisplayFor(model => model.director);
+                }
+            }
+        </dd>
+
+        <dt>
+            Trailer
+        </dt>
+
+        <dd>
+            <iframe width="425" height="344" src="//www.youtube.com/embed/@Model.youtube_trailer.Split('=')[1]" frameborder="0" allowfullscreen></iframe>
+        </dd>
+
+        <dt>
+            Prix
+            <br />
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.awards)
+        </dd>
+
+        <dt>
+            Année de création
+            <br />
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.year_start)
+        </dd>
+
+        <dt>
+            Année de fin de production
+            <br />
+        </dt>
+
+        <dd>
+            @{ if (Model.director.IsEmpty())
+                {
+                    <p>[NON RENSEIGNÉ]</p>
+                }
+                else
+                {
+                    Html.DisplayFor(model => model.year_end);
+                }
+            }
+        </dd>
+
+        <dt>
+            Saisons
+        </dt>
+
+        <dd>
+            @{ 
+                foreach(var se in Model.season.OrderBy(se => se.number))
+                {
+                    <b>Saison @se.number</b>
+                    foreach(var ep in se.episode.OrderBy(ep => ep.number))
+                    {
+                        
+                        <p style="text-indent:10%">@ep.number. @ep.title</p>
+                    }
+                }
+            }
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Retour à la liste", "Index")
+</p>
